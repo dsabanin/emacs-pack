@@ -5,3 +5,7 @@
 
 ;; Load bindings config
 (live-load-config-file "bindings.el")
+
+(tool-bar-mode -1)
+(global-linum-mode 1)
+(line-number-mode 1)
