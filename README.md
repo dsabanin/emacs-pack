@@ -1,3 +1,5 @@
+Just a test.
+
 ## User Pack Template
 
 This is a template for your own user (or other purpose) pack.
@@ -30,3 +32,5 @@ have the file config/foo.el then you may load it in with:
     (require 'baz)
 
  Have fun!
+
+
